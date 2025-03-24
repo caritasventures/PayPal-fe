@@ -1,0 +1,6 @@
+SDLC is a methodology in taking software products from ideation to launch
+Linux
+Scripting is automation
+git is a dvcs
+aws is a cloud provider
+EC2 is great
